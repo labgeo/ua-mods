@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "mermaid2"
+        "-mermaid2"
     ],
     "pluginsConfig": {}
 }
