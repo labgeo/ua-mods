@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Acerca de](README.md)
 * [Introducción](introduccion.md)
 * [Convenciones](convenciones.md)
 * [Checklist](checklist.md)
