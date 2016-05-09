@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "mermaid2"
+        "mermaid2",
+        "autocover"
     ],
     "pluginsConfig": {}
 }
