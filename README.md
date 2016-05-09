@@ -3,5 +3,5 @@
 
 **Tipo de documento:** Especificación técnica  
 **Elaborado por:** Sistema de Información Geográfica de la Universidad de Alicante (SIGUA)  
-**Versión:**  
+**Versión:** 0.0  
 **Fecha:**
