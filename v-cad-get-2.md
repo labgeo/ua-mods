@@ -1,2 +1,16 @@
 # v-cad-get-2
 
+Recepción de ficheros CAD para actualización de geometría vectorial 2D  
+{% mermaid %}
+sequenceDiagram;
+  Técnico Srv. Infr.->>Gestor de Tareas: abre ticket de obra nueva o reforma;
+  Técnico Srv. Infr.->>Gestor de Tareas: adjunta DXF;
+  Gestor de Tareas-->>Técnico SIGUA: envía notificación obra nueva o reforma;
+  Técnico SIGUA->>Gestor de Tareas: mueve ticket a tareas iniciadas;
+  Gestor de Tareas-->>Técnico Srv. Infr.: envía notificación tarea iniciada;
+  Gestor de Tareas-->>Vic. Campus: envía notificación tarea iniciada;
+  Técnico SIGUA->>Base de datos: integra geometría;
+  Técnico SIGUA->>Gestor de Tareas: mueve ticket a tareas terminadas;
+  Gestor de Tareas-->>Técnico Srv. Infr.: envía notificación tarea terminada;
+  Gestor de Tareas-->>Vic. Campus: envía notificación tarea terminada;
+{% endmermaid %}
