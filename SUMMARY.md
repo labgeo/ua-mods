@@ -9,5 +9,6 @@
    * [Cómo editar el Checklist](como_editar_el_checklist.md)
 * [Diagramas de secuencia](diagramas_de_secuencia.md)
    * [v-cad-get](v-cad-get.md)
+   * v-cad-get-2
 * [Licencia](LICENSE.md)
 
