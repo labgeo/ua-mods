@@ -1,4 +1,9 @@
 # v-cad-get
 
-sequenceDiagram  
-    A->>B: message
+{% mermaid %}
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+{% endmermaid %}
