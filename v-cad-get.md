@@ -3,5 +3,5 @@
 Recepción de ficheros CAD para actualización de geometría vectorial 2D  
 {% mermaid %}
 sequenceDiagram;
-  Técnico Srv. Infr.->>Técnico SIGUA: e-mail + DWG obra nueva o reforma;
+  Técnico Srv. Infr.->>Técnico SIGUA: e-mail con DWG adjunto;
 {% endmermaid %}
