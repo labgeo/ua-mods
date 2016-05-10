@@ -1,4 +1,4 @@
 # Convenciones
 
 Este documento está escrito en *Markdown*. No se trata de un lenguaje de marcado, sino de un conjunto de reglas muy simples para el formateo de documentos de texto. El resultado final es un texto que se puede interpretar y convertir automáticamente a lenguaje de marcado (e.g. HTML) pero que cumple su finalidad principal: ser un documento perfectamente legible para humanos.  
-Existen diversos intérpretes de *Markdown*, por lo que existen variaciones y extensiones de las reglas de formato. En el caso de este documento, las reglas básicas son las del [intérprete de GitBook](https://gitbookio.gitbooks.io/markdown/content/index.html), que a su vez es compatible con [GitHub Flavour Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
+Existen diversos intérpretes de *Markdown*, por lo que existen variaciones y extensiones de las reglas de formato. En el caso de este documento, las reglas básicas son las del [intérprete de GitBook](https://gitbookio.gitbooks.io/markdown/content/index.html), que a su vez es compatible con [GitHub Flavoured Markdown](https://guides.github.com/features/mastering-markdown/).
