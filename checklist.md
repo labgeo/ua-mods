@@ -5,9 +5,6 @@
 
 | Id | Propuesta | En desarrollo | En pruebas | Operativo |
 | -- | -- | -- | -- | -- |
-| v-cad-get | - [ ] | - [ ] | - [ ] | - [x] |
-| v-cad-get-2 | - [x] | - [ ] | - [ ] | - [ ] |
+| v-cad-get |  |  |  | ✔ |
+| v-cad-get-2 | ✔ |  |  |  |
 
- -   - [x]() Operativo [v-cad-get](v-cad-get.md)
- - [ ]() Propuesta [v-cad-get-2](v-cad-get-2.md)
- - 
