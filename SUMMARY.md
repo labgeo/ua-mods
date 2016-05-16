@@ -9,6 +9,6 @@
    * [Cómo editar el Checklist](como_editar_el_checklist.md)
 * [Diagramas de secuencia](diagramas_de_secuencia.md)
    * [Recepción CAD (ds01)](ds01.md)
-   * [Recepción CAD (ds01-2)](v-cad-get-2.md)
+   * [Recepción CAD (ds01-2)](ds01-2.md)
 * [Licencia](LICENSE.md)
 
