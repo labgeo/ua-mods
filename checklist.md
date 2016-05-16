@@ -5,6 +5,6 @@
 
 | Id | Propuesta | En desarrollo | En pruebas | Operativo |
 | -- | -- | -- | -- | -- |
-| [v-cad-get](v-cad-get.md) | - | - | - | ✔ |
-| [v-cad-get-2](v-cad-get-2.md) | ✔ | - | - | - |
+| [ds01](ds01.md) | - | - | - | ✔ |
+| [ds01-2](ds01-2.md) | ✔ | - | - | - |
 
