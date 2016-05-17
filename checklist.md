@@ -36,3 +36,7 @@ La actividad habitual que se desempeña en una estancia es una cualidad fundamen
 -  Comparar con los umbrales de superficie resultantes de aplicar el modelo de espacios.
 -  Generar mapas de distribución de usos del suelo construido.
 -  Confeccionar pliegos de condiciones para contratos de mantenimiento.
+
+| Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
+| -- | -- | :--: | :--: | :--: | :--: | :--: |
+| [ds03](ds03.md) | [Aplicación HTML5 de asignación de usos de las estancias](ds03.md) | - | - | - | ✔ | - |
