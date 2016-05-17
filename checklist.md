@@ -1,4 +1,4 @@
-# Checklist de secuencias
+# Checklist de secuencias del marco operativo
   
 Esta es la lista de secuencias de intercambio que conforman el marco operativo de datos espaciales de la UA. Este apartado se organiza en secciones. Cada sección contiene información general acerca de una secuencia de intercambio de datos, y muestra en una tabla distintas variantes de la misma. Entre dichas variantes puede haber una que sea operativa, es decir, la que explica cómo se realiza el intercambio de datos actualmente. Los identificadores y descripciones de las secuencias son hiperenlaces a los correspondientes diagramas de secuencia. En estos diagramas se especifican en detalle los mensajes entre los distintos actores que participan en el intercambio.  
 
