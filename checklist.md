@@ -18,3 +18,8 @@ La adscripción de estancias a departamentos es un aspecto clave de la base de d
 -  Calcular estadísticas de superficie agregada.
 -  Comparar valores de superficie entre la base de datos geográfica y el modelo de espacios.
 -  Generar mapas de distribución de estancias por departamento.
+
+| Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
+| -- | -- | :--: | :--: | :--: | :--: | :--: |
+| [ds02](ds02.md) | [Adscripción de estancias a departamentos mediante sentencia SQL manual](ds02.md) | - | - | - | ✔ | - |
+| [ds02-2](ds02-2.md) | [Aplicación HTML5 de adscripción de estancias a departamentos](ds02-2.md) | ✔ | - | - | - | - |
