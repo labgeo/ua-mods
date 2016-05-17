@@ -11,6 +11,6 @@
    * [Recepción CAD por e-mail](ds01.md)
    * [Recepción CAD con tickets](ds01-2.md)
    * [Adscripción mediante SQL](ds02.md)
-   * [App HTML5 para adscripciones](ds02-2.md)
+* [App HTML5 para adscripciones](ds02-2.md)
 * [Licencia](LICENSE.md)
 
