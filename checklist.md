@@ -23,3 +23,16 @@ La adscripción de estancias a departamentos es un aspecto clave de la base de d
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
 | [ds02](ds02.md) | [Adscripción de estancias a departamentos mediante sentencia SQL manual](ds02.md) | - | - | - | ✔ | - |
 | [ds02-2](ds02-2.md) | [Aplicación HTML5 de adscripción de estancias a departamentos](ds02-2.md) | - | ✔ | - | - | - |
+
+---
+#### Asignación de usos de las estancias
+La actividad habitual que se desempeña en una estancia es una cualidad fundamental de la base de datos geográfica de la UA. En cada departamento o unidad hay un miembro del PAS, previamente designado por el Vicerrectorado de Campus, que se encarga de indicar la actividad habitual de cada una de las estancias adscritas a ese departamento o unidad. Mantener actualizado el dato de actividad habitual permite articular un sistema de información de los usos del suelo construido de la UA, y tiene utilidades tales como:  
+
+-  Reclasificar y agregar superficies según:
+  -  El catálogo de usos del Servicio de Prevención.
+  -  Criterios docentes.
+  -  El sistema de auditoría de la CRUE.
+-  Asignar automáticamente coeficientes de riesgo en el puesto de trabajo.
+-  Comparar con los umbrales de superficie resultantes de aplicar el modelo de espacios.
+-  Generar mapas de distribución de usos del suelo construido.
+-  Confeccionar pliegos de condiciones para contratos de mantenimiento.
