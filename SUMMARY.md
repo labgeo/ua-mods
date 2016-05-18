@@ -13,5 +13,6 @@
    * [Adscripción mediante SQL](ds02.md)
    * [App HTML5 para adscripciones](ds02-2.md)
    * [App HTML5 de usos](ds03.md)
+   * App HTML5 de ubicación de puestos
 * [Licencia](LICENSE.md)
 
