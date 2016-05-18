@@ -14,7 +14,7 @@
    * [App HTML5 de adscripciones](ds02-2.md)
    * [App HTML5 de usos](ds03.md)
    * [App HTML5 de puestos](ds04.md)
-   * [Responsables espacios vía SQL](ds05.md)
+   * [Responsables esp. vía SQL](ds05.md)
    * [App HTML5 responsables esp.](ds05-2.md)
 * [Licencia](LICENSE.md)
 
