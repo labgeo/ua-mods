@@ -51,7 +51,12 @@ Junto con la adscripción de departamentos y la asignación de actividad habitua
 
 ---
 #### Designación de PAS responsable de espacios
-El Vicerrectorado de Campus, de común acuerdo con los departamentos y unidades, es el órgano competente para designar al gestor PAS responsable de espacios de cada departamento o unidad. Los responsables de espacios tienen 2 funciones de cara a la actualización de la base de datos geográfica de la UA:  
+El Vicerrectorado de Campus, de común acuerdo con los departamentos y unidades, es el órgano competente para designar al gestor PAS responsable de espacios de cada departamento o unidad. Los responsables de espacios tienen 2 funciones fundamentales de cara a la actualización de la base de datos geográfica de la UA:  
 
 -  Asignar la actividad habitual a la que se destina cada estancia de su respectivo departamento o unidad.
 -  Ubicar al PAS, al PDI y a los cargos de su respectivo departamento o unidad.
+
+| Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
+| -- | -- | :--: | :--: | :--: | :--: | :--: |
+| [ds05](ds05.md) | [Designación de PAS responsable de espacios mediante sentencia SQL manual](ds05.md) | - | - | - | ✔ | - |
+| [ds05-2](ds05-2.md) | [App HTML5 para la designación de PAS responsable de espacios](ds05-2.md) | - | - | ✔ | - | - |
