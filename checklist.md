@@ -40,3 +40,7 @@ La actividad habitual que se desempeña en una estancia es una cualidad fundamen
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
 | [ds03](ds03.md) | [Aplicación HTML5 de asignación de usos de las estancias](ds03.md) | - | - | - | ✔ | - |
+
+---
+#### Ubicación de puestos de trabajo
+Junto con la adscripción de departamentos y la asignación de actividad habitual de las estancias, la ubicación de puestos de trabajo es el tercer aspecto que caracteriza a la base de datos geográfica de la UA. El mismo gestor que asigna la actividad habitual de las estancias, se encarga a su vez de indicar en qué estancias desempeña su puesto el PAS, el PDI y los cargos de su departamento o unidad.
