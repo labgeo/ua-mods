@@ -1,1 +1,1 @@
-#### [⌘ Ir al checklist](checklist.md)
+#### [⌘ Ir al Checklist](checklist.md)
