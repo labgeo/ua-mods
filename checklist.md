@@ -60,3 +60,11 @@ El Vicerrectorado de Campus, de común acuerdo con los departamentos y unidades,
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
 | [ds05](ds05.md) | [Designación de PAS responsable de espacios mediante sentencia SQL manual](ds05.md) | - | - | - | ✔ | - |
 | [ds05-2](ds05-2.md) | [App HTML5 para la designación de PAS responsable de espacios](ds05-2.md) | - | - | ✔ | - | - |
+
+---
+#### Auto-ubicación de puestos de trabajo
+En algunos casos, el responsable de espacios no puede ubicar con exactitud los puestos de trabajo de su departamento o unidad. Esto puede ser debido a que el personal trabaja en dependencias dispersas o incluso en estancias que no están adscritas a su departamento. Para evitar omisiones o inconsistencias en los datos de ubicación, se requiere un mecanismo simple y seguro que permita al PAS o al PDI notificar a su responsable de espacios dónde desempeña su puesto. A esta utilidad la denominamos auto-ubicación porque permite al propio PAS o PDI iniciar el proceso de actualización de su lugar de trabajo en la base de datos geográfica de la UA.
+
+| Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
+| -- | -- | :--: | :--: | :--: | :--: | :--: |
+| [ds06](ds06.md) | [Aplicación HTML5 de auto-ubicación de puestos de trabajo](ds06.md) | - | - | - | ✔ | - |
