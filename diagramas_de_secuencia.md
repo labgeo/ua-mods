@@ -9,4 +9,4 @@ Estos diagramas se componen básicamente de:
 
 Los mensajes de un diagrama de secuencia se leen de arriba hacia abajo, dado que están ordenados siguiendo una línea temporal.  
 
-*Observaciones: En todos los diagramas de secuencia, el actor **Gestor Dpto.** siempre se refiere al gestor PAS responsable de espacios de su departamento o unidad.*
+*Observaciones: En todos los diagramas de secuencia, el actor **Resp. espacios** siempre se refiere al gestor PAS responsable de espacios de su departamento o unidad.*
