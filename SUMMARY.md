@@ -16,6 +16,6 @@
    * [App HTML5 de puestos](ds04.md)
    * [Responsables esp. vía SQL](ds05.md)
    * [App HTML5 responsables esp.](ds05-2.md)
-   * App HTML5 de auto-ubicación
+   * [App HTML5 de auto-ubicación](ds06.md)
 * [Licencia](LICENSE.md)
 
