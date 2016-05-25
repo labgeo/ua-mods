@@ -38,4 +38,7 @@ App-->>Resp.espacios:muestra un mensaje informativo;
 {% endmermaid %}
 ```
 
-*Observaciones: En todos los diagramas de secuencia, el actor **Resp. espacios** siempre se refiere al gestor PAS responsable de espacios de su departamento o unidad.*
+### Observaciones sobre las denominaciones de los actores
+-  Se utilizan diagramas de secuencia simplificados en los que un actor puede hacer referencia tanto a usuarios como a componentes de software. Los usuarios pueden ser todos los pertenecientes a un colectivo u organismo (e.g. Vic. Campus) como usuarios individuales (e.g. Técnico SIGUA). A su vez, un componente de software puede ser tanto una aplicación concreta como un servicio o plataforma de servicios (e.g. UACloud).
+-  Cuando se menciona el actor `Resp. espacios` siempre se hace referencia al gestor PAS responsable de espacios de su departamento o unidad.
+-  Cuando se menciona el actor `Base de datos` siempre nos referimos a la base de datos geográfica de la UA.
