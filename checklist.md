@@ -68,3 +68,11 @@ En algunos casos, el responsable de espacios no puede ubicar con exactitud los p
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
 | [ds06](ds06.md) | [Aplicación HTML5 de auto-ubicación de puestos de trabajo](ds06.md) | - | - | - | ✔ | - |
+
+---
+#### Integración de datos organizativos y de personal
+Los datos de estructura organizativa (unidades, subunidades, centros y departamentos docentes) y de personal (PDI, PAS y cargos) se replican periódicamente en la base de datos geográfica de la UA a partir de las bases de datos corporativas de gestión de personal. Por tanto, una vez replicados, son tratados como datos de sólo lectura.
+
+| Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
+| -- | -- | :--: | :--: | :--: | :--: | :--: |
+| [ds07](ds07.md) | [Aplicación de escritorio para la copia incremental de datos organizativos y de personal](ds07.md) | - | - | - | ✔ | - |
