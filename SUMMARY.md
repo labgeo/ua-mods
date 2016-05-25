@@ -17,6 +17,6 @@
    * [Nuevo Resp. espacios vía SQL](ds05.md)
    * [App HTML5 nuevo Resp. espacios](ds05-2.md)
    * [App HTML5 de auto-ubicación](ds06.md)
-   * App de copia incremental
+   * [App de copia incremental](ds07.md)
 * [Licencia](LICENSE.md)
 
