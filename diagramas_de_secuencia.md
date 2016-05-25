@@ -15,7 +15,7 @@ Veamos un ejemplo de cómo representar en un diagrama de secuencia el siguiente 
 El diagrama es el siguiente:  
 
 {% mermaid %}
-sequenceDiagram
+sequenceDiagram;
 Usuario->>UACloud:se identifica con su cuenta de usuario @ua.es;
 Usuario->>App:accede a la lista de estancias;
 Usuario->>App:selecciona una estancia;
