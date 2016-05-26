@@ -5,5 +5,10 @@
         "todo",
         "atoc"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "atoc": {
+            "addClass": true,
+            "className": "atoc"
+        }
+    }
 }
