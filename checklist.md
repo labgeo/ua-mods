@@ -4,7 +4,7 @@ Esta es la lista de secuencias de intercambio que conforman el marco operativo d
 
 <button class="section" target="01" show="Recepción de ficheros CAD para actualización de geometría vectorial 2D" hide="Recepción de ficheros CAD para actualización de geometría vectorial 2D"></button>
 
-<!--sec data-title="Recepción de ficheros CAD para actualización de geometría vectorial 2D" data-id="01" data-show="false" ces-->
+<!--sec data-title="Recepción de ficheros CAD para actualización de geometría vectorial 2D" data-id="01" data-show=false ces-->
 
 La actualización de la geometría en la base de datos geográfica de la UA se realiza, fundamentalmente, a partir de los planos de distribución de plantas y urbanización en formato digital, remitidos por el Servicio de Infraestructuras. En este sentido, la recepción de ficheros CAD relativos a obra nueva y reformas es el primer paso para ofrecer cartografía continua y coherente, tanto *indoor* como *outdoor*, del campus de San Vicente y las diversas sedes.
 
