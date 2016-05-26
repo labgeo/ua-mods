@@ -98,4 +98,8 @@ El control de versiones de datos es un mecanismo independiente del de copias de 
 -  ¿A qué departamento pertenecía anteriormente esta estancia?
 -  ¿En qué estancia se ubicaba este puesto de trabajo antes?
 
+| Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
+| -- | -- | :--: | :--: | :--: | :--: | :--: |
+| [ds08](ds08.md) | [Registro continuo de versiones en almacén clave/valor](ds08.md) | - | - | - | ✔ | - |
+
 <!--endsec-->
