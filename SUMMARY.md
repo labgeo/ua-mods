@@ -18,6 +18,6 @@
    * [App HTML5 nuevo Resp. espacios](ds05-2.md)
    * [App HTML5 de auto-ubicación](ds06.md)
    * [App de copia incremental](ds07.md)
-   * Versionado continuo
+   * [Versionado continuo](ds08.md)
 * [Licencia](LICENSE.md)
 
