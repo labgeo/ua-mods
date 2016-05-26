@@ -1,13 +1,7 @@
 {
     "plugins": [
         "autocover",
-        "mermaid",
-        "atoc"
+        "mermaid"
     ],
-    "pluginsConfig": {
-        "atoc": {
-            "addClass": true,
-            "className": "atoc"
-        }
-    }
+    "pluginsConfig": {}
 }
