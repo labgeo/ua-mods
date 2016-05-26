@@ -92,7 +92,10 @@ Los datos de estructura organizativa (unidades, subunidades, centros y departame
 <!--endsec-->
 
 <!--sec data-title="Versionado de datos" data-id="08" ces-->
-
-
+El control de versiones de datos es un mecanismo independiente del de copias de seguridad. Gracias al versionado de datos es posible realizar el seguimiento de los cambios realizados en la geometría, la actividad habitual y la adscripción de una estancia, así como en la ubicación de un puesto de trabajo. En este sentido, se puede responder a preguntas del tipo:  
+-  ¿Qué modificaciones geométricas ha sufrido esta estancia?
+-  ¿Cuál era previamente la actividad habitual de esta estancia?
+-  ¿A qué departamento pertenecía anteriormente esta estancia?
+-  ¿En qué estancia se ubicaba este puesto de trabajo antes?
 
 <!--endsec-->
