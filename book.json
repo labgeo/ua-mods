@@ -2,7 +2,6 @@
     "plugins": [
         "autocover",
         "mermaid",
-        "todo",
         "atoc"
     ],
     "pluginsConfig": {
