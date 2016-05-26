@@ -90,3 +90,9 @@ Los datos de estructura organizativa (unidades, subunidades, centros y departame
 | [ds07](ds07.md) | [Aplicación de escritorio para la copia incremental de datos organizativos y de personal](ds07.md) | - | - | - | ✔ | - |
 
 <!--endsec-->
+
+<!--sec data-title="Versionado de datos" data-id="08" ces-->
+
+
+
+<!--endsec-->
