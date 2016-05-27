@@ -112,4 +112,8 @@ Uno de los factores fundamentales que determinan el perfil de salud laboral de u
 
 Propagando esta información hacia el Servicio de Prevención se consigue mantener actualizada una parte del perfil de salud laboral de manera automática.
 
+| Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
+| -- | -- | :--: | :--: | :--: | :--: | :--: |
+| [ds09](ds09.md) | [Utilidad de exportación a fichero XML para el Servicio de Prevención](ds09.md) | - | - | - | ✔ | - |
+
 <!--endsec-->
