@@ -106,9 +106,9 @@ El control de versiones de datos es un mecanismo independiente del de copias de 
 
 <!--sec data-title="Transferencia de datos al Servicio de Prevención" data-id="09" ces-->
 
-Uno de los factores fundamentales que determinan el perfil de salud laboral de un trabajador es el entorno en que desempeña su puesto. El Servicio de Prevención es el organismo encargado de elaborar los perfiles de salud laboral del personal de la UA. Para ello, se puede recurrir a la base de datos geográfica de la UA, concretamente a los datos de:
--  Actividad habitual a la que se destina cada estancia.
--  Ubicación de puestos de trabajo.
+Uno de los factores fundamentales que determinan el perfil de salud laboral de un trabajador es el entorno en que desempeña su puesto. El Servicio de Prevención es el organismo encargado de elaborar los perfiles de salud laboral del personal de la UA. Para incluir datos del entorno de trabajo en dichos perfiles se puede recurrir a la base de datos geográfica de la UA, y extraer:
+-  La actividad habitual a la que se destina cada estancia.
+-  Las ubicaciones de puestos de trabajo.
 
 Propagando esta información hacia el Servicio de Prevención se consigue mantener actualizada una parte del perfil de salud laboral de manera automática.
 
