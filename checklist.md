@@ -8,8 +8,8 @@ La actualización de la geometría en la base de datos geográfica de la UA se r
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds01](ds01.md) | [Recepción de ficheros CAD por correo electrónico](ds01.md) | . | . | . | {% hint style='tip' %}✔{% endhint %} | . |
-| [ds01-2](ds01-2.md) | [Recepción de ficheros CAD mediante tickets en un gestor de tareas](ds01-2.md) | {% hint style='working' %}✔{% endhint %} | . | . | . | . |
+| [ds01](ds01.md) | [Recepción de ficheros CAD por correo electrónico](ds01.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} | - |
+| [ds01-2](ds01-2.md) | [Recepción de ficheros CAD mediante tickets en un gestor de tareas](ds01-2.md) | {% hint style='working' %}✔{% endhint %} | - | - | - | - |
 
 <!--endsec-->
 
@@ -23,8 +23,8 @@ La adscripción de estancias a departamentos es un aspecto clave de la base de d
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds02](ds02.md) | [Adscripción de estancias a departamentos mediante sentencia SQL manual](ds02.md) | - | - | - | ✔ | - |
-| [ds02-2](ds02-2.md) | [Aplicación HTML5 de adscripción de estancias a departamentos](ds02-2.md) | - | ✔ | - | - | - |
+| [ds02](ds02.md) | [Adscripción de estancias a departamentos mediante sentencia SQL manual](ds02.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} | - |
+| [ds02-2](ds02-2.md) | [Aplicación HTML5 de adscripción de estancias a departamentos](ds02-2.md) | - | {% hint style='working' %}✔{% endhint %} | - | - | - |
 
 <!--endsec-->
 
@@ -43,7 +43,7 @@ La actividad habitual que se desempeña en una estancia es una cualidad fundamen
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds03](ds03.md) | [Aplicación HTML5 de asignación de usos de las estancias](ds03.md) | - | - | - | ✔ | - |
+| [ds03](ds03.md) | [Aplicación HTML5 de asignación de usos de las estancias](ds03.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} | - |
 
 <!--endsec-->
 
@@ -53,7 +53,7 @@ Junto con la adscripción de departamentos y la asignación de actividad habitua
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds04](ds04.md) | [Aplicación HTML5 de ubicación de puestos de trabajo](ds04.md) | - | - | - | ✔ | - |
+| [ds04](ds04.md) | [Aplicación HTML5 de ubicación de puestos de trabajo](ds04.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} | - |
 
 <!--endsec-->
 
@@ -66,8 +66,8 @@ El Vicerrectorado de Campus, de común acuerdo con los departamentos y unidades,
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds05](ds05.md) | [Designación de PAS responsable de espacios mediante sentencia SQL manual](ds05.md) | - | - | - | ✔ | - |
-| [ds05-2](ds05-2.md) | [App HTML5 para la designación de PAS responsable de espacios](ds05-2.md) | - | - | ✔ | - | - |
+| [ds05](ds05.md) | [Designación de PAS responsable de espacios mediante sentencia SQL manual](ds05.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} | - |
+| [ds05-2](ds05-2.md) | [App HTML5 para la designación de PAS responsable de espacios](ds05-2.md) | - | - | {% hint style='working' %}✔{% endhint %} | - | - |
 
 <!--endsec-->
 
@@ -77,7 +77,7 @@ En algunos casos, el responsable de espacios no puede ubicar con exactitud los p
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds06](ds06.md) | [Aplicación HTML5 de auto-ubicación de puestos de trabajo](ds06.md) | - | - | - | ✔ | - |
+| [ds06](ds06.md) | [Aplicación HTML5 de auto-ubicación de puestos de trabajo](ds06.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} | - |
 
 <!--endsec-->
 
@@ -87,7 +87,7 @@ Los datos de estructura organizativa (unidades, subunidades, centros y departame
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds07](ds07.md) | [Aplicación de escritorio para la copia incremental de datos organizativos y de personal](ds07.md) | - | - | - | ✔ | - |
+| [ds07](ds07.md) | [Aplicación de escritorio para la copia incremental de datos organizativos y de personal](ds07.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} | - |
 
 <!--endsec-->
 
@@ -100,7 +100,7 @@ El control de versiones de datos es un mecanismo independiente del de copias de 
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds08](ds08.md) | [Registro continuo de versiones en almacén clave/valor](ds08.md) | - | - | - | ✔ | - |
+| [ds08](ds08.md) | [Registro continuo de versiones en almacén clave/valor](ds08.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} | - |
 
 <!--endsec-->
 
@@ -114,6 +114,6 @@ Propagando esta información hacia el Servicio de Prevención se consigue manten
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds09](ds09.md) | [Utilidad de exportación a fichero XML para el Servicio de Prevención](ds09.md) | - | - | - | ✔ | - |
+| [ds09](ds09.md) | [Utilidad de exportación a fichero XML para el Servicio de Prevención](ds09.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} | - |
 
 <!--endsec-->
