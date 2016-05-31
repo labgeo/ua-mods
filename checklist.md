@@ -8,8 +8,8 @@ La actualización de la geometría en la base de datos geográfica de la UA se r
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds01](ds01.md) | [Recepción de ficheros CAD por correo electrónico](ds01.md) | - | - | - | ✔ | - |
-| [ds01-2](ds01-2.md) | [Recepción de ficheros CAD mediante tickets en un gestor de tareas](ds01-2.md) | {% hint style='working' %}✔{% endhint %} | - | - | - | - |
+| [ds01](ds01.md) | [Recepción de ficheros CAD por correo electrónico](ds01.md) |  |  |  | {% hint style='info' %}✔{% endhint %} |  |
+| [ds01-2](ds01-2.md) | [Recepción de ficheros CAD mediante tickets en un gestor de tareas](ds01-2.md) | {% hint style='danger' %}✔{% endhint %} |  |  |  |  |
 
 <!--endsec-->
 
