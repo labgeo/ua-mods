@@ -1,6 +1,6 @@
 # Alcance
 
-El alcance de estas especificaciones técnicas es la comunicación sin ambigüedades de los procesos de intercambio de datos espaciales entre distintos actores de la UA, de forma que quienes participan en esos procesos, así como los responsables de gobierno y la comunidad universitaria en general, tengan una visión general, clara y concisa de los mismos.  
+La finalidad de estas especificaciones técnicas es dar a conocer los procesos de intercambio de datos espaciales entre distintos actores de la UA, de forma que quienes participan en esos procesos, así como los responsables de gobierno y la comunidad universitaria en general, tengan una visión general, clara y concisa de los mismos.  
 
 En consecuencia, la estructura de este documento es deliberadamente simple. Los contenidos se organizan en 2 secciones:  
 -  **Checklist** de secuencias de intercambio de datos que conforman el marco operativo, incluyendo las nuevas propuestas y su grado de avance (i.e. en estudio, en desarrollo, en pruebas).
