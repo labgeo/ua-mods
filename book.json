@@ -3,7 +3,6 @@
         "autocover",
         "mermaid",
         "hints",
-        "-sectionx",
         "-sectionx-strong",
         "sectionx-collapse"
     ],
