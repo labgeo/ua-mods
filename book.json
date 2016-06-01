@@ -3,7 +3,8 @@
         "autocover",
         "mermaid",
         "hints",
-        "sectionx-modified"
+        "sectionx-modified",
+        "sectionx"
     ],
     "pluginsConfig": {}
 }
