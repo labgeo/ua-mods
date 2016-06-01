@@ -6,7 +6,7 @@
         "-sectionx-modified",
         "-sectionx",
         "-sectionx-strong",
-        "sectionx-collapse"
+        "-sectionx-collapse"
     ],
     "pluginsConfig": {}
 }
