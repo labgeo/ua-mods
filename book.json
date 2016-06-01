@@ -4,7 +4,7 @@
         "mermaid",
         "hints",
         "-sectionx-modified",
-        "sectionx",
+        "-sectionx",
         "-sectionx-strong",
         "sectionx-collapse"
     ],
