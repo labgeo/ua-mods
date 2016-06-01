@@ -2,7 +2,6 @@
     "plugins": [
         "autocover",
         "mermaid",
-        "-sectionx",
         "hints",
         "sectionx-modified"
     ],
