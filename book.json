@@ -5,7 +5,8 @@
         "hints",
         "-sectionx-modified",
         "sectionx",
-        "-sectionx-strong"
+        "-sectionx-strong",
+        "sectionx-collapse"
     ],
     "pluginsConfig": {}
 }
