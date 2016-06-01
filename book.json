@@ -4,8 +4,8 @@
         "mermaid",
         "hints",
         "-sectionx-modified",
-        "-sectionx",
-        "sectionx-strong"
+        "sectionx",
+        "-sectionx-strong"
     ],
     "pluginsConfig": {}
 }
