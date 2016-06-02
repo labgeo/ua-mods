@@ -1,7 +1,8 @@
 {
     "plugins": [
         "mermaid",
-        "hints"
+        "hints",
+        "sectionx-collapse"
     ],
     "pluginsConfig": {}
 }
