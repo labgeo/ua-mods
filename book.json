@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "autocover",
         "mermaid",
         "hints",
         "sectionx-collapse",
