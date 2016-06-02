@@ -14,20 +14,19 @@ Veamos un ejemplo de cómo representar en un diagrama de secuencia el siguiente 
 
 El diagrama es el siguiente:  
 
-{% mermaid %}
-sequenceDiagram;
-Usuario->>UACloud:se identifica con su cuenta de usuario @ua.es;
-Usuario->>App:accede a la lista de estancias;
-Usuario->>App:selecciona una estancia;
-Usuario->>App:edita actividad habitual;
-Usuario->>App:acepta los cambios;
-App-->>Usuario:muestra un mensaje informativo;
-{% endmermaid %}
+{% plantuml %}
+Usuario->>UACloud:se identifica con su cuenta de usuario @ua.es
+Usuario->>App:accede a la lista de estancias
+Usuario->>App:selecciona una estancia
+Usuario->>App:edita actividad habitual
+Usuario->>App:acepta los cambios
+App-->>Usuario:muestra un mensaje informativo
+{% endplantuml %}
 
 Y este es el código mediante el que definimos el diagrama:  
 
 ```
-{% mermaid %}
+{% plantuml %}
 sequenceDiagram
 Resp. espacios->>UACloud:se identifica con su cuenta de usuario @ua.es;
 Resp. espacios->>App:accede a la lista de estancias;
@@ -35,7 +34,7 @@ Resp. espacios->>App:selecciona una estancia;
 Resp. espacios->>App:edita actividad habitual;
 Resp. espacios->>App:acepta los cambios;
 App-->>Resp.espacios:muestra un mensaje informativo;
-{% endmermaid %}
+{% endplantuml %}
 ```
 
 ### Observaciones sobre las denominaciones de los actores
