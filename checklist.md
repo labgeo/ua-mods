@@ -6,10 +6,10 @@ Esta es la lista de secuencias de intercambio que conforman el marco operativo d
 
 La actualización de la geometría en la base de datos geográfica de la UA se realiza, fundamentalmente, a partir de los planos de distribución de plantas y urbanización en formato digital, remitidos por el Servicio de Infraestructuras. En este sentido, la recepción de ficheros CAD relativos a obra nueva y reformas es el primer paso para ofrecer cartografía continua y coherente, tanto *indoor* como *outdoor*, del campus de San Vicente y las diversas sedes.
 
-| Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
+| Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
-| [ds01](ds01.md) | [Recepción de ficheros CAD por correo electrónico](ds01.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} | - |
-| [ds01-2](ds01-2.md) | [Recepción de ficheros CAD mediante tickets en un gestor de tareas](ds01-2.md) | {% hint style='working' %}✔{% endhint %} | - | - | - | - |
+| [ds01](ds01.md) | [Recepción de ficheros CAD por correo electrónico](ds01.md) | - | - | - | {% hint style='tip' %}✔{% endhint %} |
+| [ds01-2](ds01-2.md) | [Recepción de ficheros CAD mediante tickets en un gestor de tareas](ds01-2.md) | {% hint style='working' %}✔{% endhint %} | - | - | - |
 
 <!--endsec-->
 
