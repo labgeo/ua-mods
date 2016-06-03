@@ -3,7 +3,8 @@
         "mermaid",
         "hints",
         "sectionx-collapse",
-        "puml"
+        "puml",
+        "richquotes"
     ],
     "pluginsConfig": {}
 }
