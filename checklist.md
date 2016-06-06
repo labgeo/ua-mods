@@ -30,7 +30,7 @@ La adscripción de estancias a departamentos es un aspecto clave de la base de d
 
 <!--sec data-title="Asignación de usos de las estancias" data-id="03"  ces-->
 
-La actividad habitual que se desempeña en una estancia es una cualidad fundamental de la base de datos geográfica de la UA. En cada departamento o unidad hay un miembro del PAS, previamente designado por el Vicerrectorado de Campus, que se encarga de indicar la actividad habitual de cada una de las estancias adscritas a ese departamento o unidad. Mantener actualizado el dato de actividad habitual permite articular un sistema de información de los usos del suelo construido de la UA, y tiene utilidades tales como:  
+La actividad habitual que se desempeña en una estancia es una característica fundamental del modelo de la base de datos geográfica de la UA. En cada departamento o unidad hay un miembro del PAS, previamente designado por el Vicerrectorado de Campus, que se encarga de indicar la actividad habitual de cada una de las estancias adscritas a ese departamento o unidad. Mantener actualizado el dato de actividad habitual permite articular un sistema de información de los usos del suelo construido de la UA, y tiene utilidades tales como:  
 
 -  Reclasificar y agregar superficies según:
   -  El catálogo de usos del Servicio de Prevención.
