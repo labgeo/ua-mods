@@ -110,7 +110,7 @@ Uno de los factores fundamentales que determinan el perfil de salud laboral de u
 -  La actividad habitual a la que se destina cada estancia.
 -  Las ubicaciones de puestos de trabajo.
 
-Propagando esta información hacia el Servicio de Prevención se consigue mantener actualizada una parte del perfil de salud laboral de manera automática.
+Propagando esta información hacia el Servicio de Prevención se consiguen mantener actualizados los perfiles de salud laboral del PAS y el PDI de la UA de manera automática.
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
