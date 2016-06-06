@@ -83,7 +83,7 @@ En algunos casos, el responsable de espacios no puede ubicar con exactitud los p
 
 <!--sec data-title="Integración de datos organizativos y de personal" data-id="07" ces-->
 
-Los datos de estructura organizativa (unidades, subunidades, centros y departamentos docentes) y de personal (PDI, PAS y cargos) se replican periódicamente en la base de datos geográfica de la UA a partir de las bases de datos corporativas de gestión de personal. Por tanto, una vez replicados, son tratados como datos de sólo lectura.
+Los datos de estructura organizativa (unidades, subunidades, centros y departamentos docentes) y de personal (PDI, PAS y cargos) se replican periódicamente en la base de datos geográfica de la UA a partir de las bases de datos corporativas de gestión de personal. Una vez replicados, estos datos son tratados como de sólo lectura.
 
 | Id | Descripción | Propuesta | En desarrollo | En pruebas | Operativo | En desuso |
 | -- | -- | :--: | :--: | :--: | :--: | :--: |
